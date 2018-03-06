@@ -2,4 +2,4 @@ classes= 1
 train  = /darknet/work/train.txt
 valid  = /darknet/work/test.txt
 names = /darknet/work/cfg/obj.names
-backup = /darknet/work/backup/
+backup = /output/
